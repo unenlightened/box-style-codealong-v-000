@@ -174,7 +174,8 @@ header {
 }
 
 #navbard nav a.selected {
-  background: 
+  background: #333;
+  color: white;
 }
 /*////////// LOGO //////////*/
 
@@ -219,4 +220,3 @@ section {
 }
 
 /*////////// FOOTER //////////*/
-
