@@ -41,6 +41,7 @@ figcaption {
 
 .white-wood {
   background: url(../images/white-wood.jpg) no-repeate center top;
+  background-size: cover;
 }
 
 
